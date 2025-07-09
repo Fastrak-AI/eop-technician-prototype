@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import IPhoneFrame from "@/polymet/components/iphone-frame";
 import JobsScreen from "@/polymet/components/jobs-screen";
 import JobDetails from "@/polymet/components/job-details";
